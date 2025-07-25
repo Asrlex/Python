@@ -1,1 +1,67 @@
 Game started
+Turn 1: WP from E7 to E6
+Time taken: 8.72 seconds
+WR WN WB WQ WK WB WN WR
+WP WP WP WP    WP WP WP
+            WP         
+                       
+                       
+                       
+BP BP BP BP BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
+Turn 2: WP from E7 to E6
+Time taken: 0.00 seconds
+WR WN WB WQ WK WB WN WR
+WP WP WP WP    WP WP WP
+            WP         
+                       
+                       
+                       
+BP BP BP BP BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
+Turn 2: BP from D2 to D3
+Time taken: 2.99 seconds
+WR WN WB WQ WK WB WN WR
+WP WP WP WP    WP WP WP
+            WP         
+                       
+                       
+         BP            
+BP BP BP    BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
+Turn 3: BP from D2 to D3
+Time taken: 0.00 seconds
+WR WN WB WQ WK WB WN WR
+WP WP WP WP    WP WP WP
+            WP         
+                       
+                       
+         BP            
+BP BP BP    BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
+Turn 3: WB from F8 to C5
+Time taken: 3.54 seconds
+WR WN WB WQ WK    WN WR
+WP WP WP WP    WP WP WP
+            WP         
+      WB               
+                       
+         BP            
+BP BP BP    BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
+Turn 4: WB from F8 to C5
+Time taken: 0.00 seconds
+WR WN WB WQ WK    WN WR
+WP WP WP WP    WP WP WP
+            WP         
+      WB               
+                       
+         BP            
+BP BP BP    BP BP BP BP
+BR BN BB BQ BK BB BN BR
+
